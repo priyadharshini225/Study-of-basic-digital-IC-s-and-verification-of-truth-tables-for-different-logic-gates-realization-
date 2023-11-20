@@ -74,7 +74,8 @@ RegisterNumber: 23003522
 ![Screenshot 2023-11-20 200413](https://github.com/priyadharshini225/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138849213/da40e1fb-911b-4d52-96cc-29dc7d516ccc)
 
 ## RTL realization:
-![Screenshot 2023-10-06 193642](https://github.com/priyadharshini225/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138849213/8f9bec15-3d1f-4037-9fb9-74e2dfbf6179)
+![Screenshot 2023-10-06 193642](https://github.com/priyadharshini225/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138849213/cd9dbf04-4d51-4344-a531-69e1a952a0b4)
+
 
 ## Output:
 
