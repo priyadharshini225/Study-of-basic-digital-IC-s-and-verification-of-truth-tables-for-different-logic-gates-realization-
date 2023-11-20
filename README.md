@@ -62,6 +62,7 @@ Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 
 Developed by: S.Priyadharshini
+
 RegisterNumber: 23003522
 
 ![Screenshot 2023-11-20 201634](https://github.com/priyadharshini225/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138849213/ca091b06-6d77-4156-8bf0-c727baf56d27)
