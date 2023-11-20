@@ -57,11 +57,12 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
+
 Program:
-/*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: S.Priyadharshini
 RegisterNumber: 23003522
+/*
 module de1(a,b,c,d,e,f,g,h,i);
 input a,b;
 output c,d,e,f,g,h,i;
