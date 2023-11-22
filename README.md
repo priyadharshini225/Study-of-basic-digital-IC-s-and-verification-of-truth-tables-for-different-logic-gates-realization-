@@ -78,6 +78,7 @@ RegisterNumber: 23003522
 
 
 ## Output:
+![Screenshot 2023-11-22 203948](https://github.com/priyadharshini225/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138849213/aa301ed4-6022-436a-b2c5-daa630ffa409)
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
